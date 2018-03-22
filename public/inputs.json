@@ -1,0 +1,14 @@
+[
+  {
+    "name": "nome",
+    "pretty_name": "Nome"
+  },
+  {
+    "name": "email",
+    "pretty_name": "E-mail"
+  },
+  {
+    "name": "mensagem",
+    "pretty_name": "Mensagem"
+  }
+]
